@@ -1,5 +1,5 @@
 # 💫 About Me:
-Electronics and Telecommunications engineering graduate. Exploring Cybersecurity, Python, Data Science, Cloud and Linux. Learning through projects and experimentation.
+Electronics and Telecommunications engineering graduate. Exploring Software development, Cloud Computing, DevOps and Machine Learning. Learning through projects and experimentation.
 
 
 ## 🌐 Socials:
